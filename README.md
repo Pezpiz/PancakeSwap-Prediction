@@ -9,6 +9,15 @@ If you found this helpful then you can buy me a coffee at `0x1c423F7dc5d63F9355c
 
 **WARNING:** Please note most of the pancakeswap bots on Github are copy of this repo. Please be careful and make sure to review the source code as they can be used to steal your private key or your money. 
 
+-- Fake Forks List --
+
+https://github.com/SavannahCatToken/PancakeswapPredictionBot-Fullversion
+https://github.com/AssaEmpireToken/Pancakeswap-Prediction-Bot-2022-Updated
+https://github.com/AladeenCR/PancakeSwap-Prediction-Bot-v3
+https://github.com/AssaEmpire2/Pancakeswap_Prediction_Bot
+
+Didin't even bother to change the README file. Lol
+
 ## Table of Content
 * [Installation](#installation)
 * [Usage](#usage)

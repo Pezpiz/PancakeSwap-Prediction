@@ -16,7 +16,7 @@ https://github.com/AssaEmpireToken/Pancakeswap-Prediction-Bot-2022-Updated
 https://github.com/AladeenCR/PancakeSwap-Prediction-Bot-v3
 https://github.com/AssaEmpire2/Pancakeswap_Prediction_Bot
 
-Didin't even bother to change the README file. Lol
+The repo owners didin't even bother to change the README file.
 
 ## Table of Content
 * [Installation](#installation)

